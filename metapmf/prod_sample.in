@@ -1,0 +1,12 @@
+prod
+ &cntrl
+/
+ &qmmm
+ /
+ &wt
+  type='DUMPFREQ', istep1=?,
+ /
+&wt type='END' /
+DISANG=disang.in
+DUMPAVE=distance.dat
+
